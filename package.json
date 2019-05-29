@@ -1,7 +1,7 @@
 {
-  "name": "typography-theme-wordpress-2016-fork",
+  "name": "jamessimone-typography-theme-wordpress-2016",
   "description": "A fork of the theme for Typography.js inspired by the typography of the Wordpress 2016 default theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "James Simone",
   "dependencies": {
     "gray-percentage": "2.0.0",
